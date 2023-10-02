@@ -1,0 +1,33 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-size: 14px;
+}
+.card {
+  padding: 2em;
+}
+.btn{
+background-color: gray;
+border: none;
+}
+
+.btn:hover{
+  background-color: green; 
+}
+
+input[type="text"] {
+  height: 38px;
+}
+.list {
+  list-style: none;
+}
+button.btn2{
+  background-color: gray;
+  padding: 4px 18px;
+  border: none;
+  }
+  .btn2:hover{
+    background-color: red; 
+  }
